@@ -1,0 +1,4 @@
+/mnt/c/Users/Lilo/Desktop/project/cmake-build-debug-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lilo/Desktop/project/cmake-build-debug-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Lilo/Desktop/project/cmake-build-debug-wsl/CMakeFiles/DateConverter_run.dir
+/mnt/c/Users/Lilo/Desktop/project/cmake-build-debug-wsl/CMakeFiles/unit_test.dir

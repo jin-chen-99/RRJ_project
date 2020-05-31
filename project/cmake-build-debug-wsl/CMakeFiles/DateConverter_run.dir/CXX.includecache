@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lilo/Desktop/project/implementation.cpp
+iostream
+-
+iomanip
+-
+unordered_map
+-
+unordered_set
+-
+array
+-
+vector
+-
+utility
+-
+queue
+-
+tuple
+-
+algorithm
+-
+cstdlib
+-
+
+/mnt/c/Users/Lilo/Desktop/project/main.cpp
+implementation.cpp
+/mnt/c/Users/Lilo/Desktop/project/implementation.cpp
+iostream
+-
+algorithm
+-
+
